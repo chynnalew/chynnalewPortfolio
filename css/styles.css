@@ -50,6 +50,8 @@ a:visited{
   margin: 20px;
   font-size: small;
   width: 300px;
+  height: 400px;
+  overflow: scroll;
   background-color: rgba(240, 255, 240, 0.404);
   border-top: rgb(208, 240, 245) 2px solid;
   border-right: rgb(208, 240, 245) 2px solid;
@@ -58,6 +60,7 @@ a:visited{
   border-radius: 20pt;
   box-shadow: 2px 2px 4px rgb(206, 205, 205);
 }
+
 .grey {
   color:rgb(95, 95, 95);
 }
