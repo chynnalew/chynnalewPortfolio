@@ -1,5 +1,10 @@
 body{
   margin-right:150px;
+  background-image: url(../img/personalLogo.png);
+  background-size: 20px ;
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+  background-color: white;
 }
 a:link{
   color:rgb(22, 175, 137)
@@ -73,6 +78,14 @@ a:visited{
 .thumb {
   display: block;
   width: 100%;
+  height: auto;
+}
+.thumb img {
+  height: 100px;
+  width: 200px;
+}
+#logo {
+  width: 100px;
   height: auto;
 }
 #name {
