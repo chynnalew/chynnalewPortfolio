@@ -21,7 +21,7 @@ This application is a webpage containing links to Chynna Lew's coding project re
 
 ## Known Bugs
 
-* There is some sort of interferance that causes a random white space between float box-elements. It moves around as the screen is resized. You will need to scroll down to see the problem.
+* None
 
  ## License
 
